@@ -1,0 +1,7 @@
+dnspython
+py-cord
+pymongo
+pytz
+hexacolors
+NewFunctionsPYC
+tinydb

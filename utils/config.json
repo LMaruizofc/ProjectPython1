@@ -1,0 +1,87 @@
+{
+  "token": "MTAxODk1ODA4Mzc2NDAwMjkxOQ.GvJLqq.AByiW1fuw8b2CQMl-b5-9RzjGzg28-ANiaAMD8",
+  "mongokey": "mongodb+srv://Marciel:roPbLXJEEu5w0v4c@markuus.c1awv.mongodb.net/test?authSource=admin&replicaSet=atlas-4n715z-shard-0&readPreference=primary&ssl=true",
+  "topggkey": "",
+
+  "guild": 1101694285839077537,
+
+  "roles":{
+
+    "staff": {
+
+      "admin": 1102787478672375900,
+      "mod": 1104951233539747861,
+      "suporte": 1104951346345562232,
+      "staff": 1105599978656780399
+
+    },
+
+    "equipes":{
+
+      "equipecall": {
+
+        "submod": 1105612253648130089,
+        "staffcall": 1105612257368490104,
+        "movimenta": 1105612262057709619
+
+      },
+
+      "equipechat": {
+
+        "liderchat": 1105615347400323154,
+        "staffchat": 1105615567102156893,
+        "movimenta": 1105615601277354095
+        
+      },
+
+      "equipeeventos": {
+
+        "chefeeventos": 1105614035036147843,
+        "apresentador": 1105614285331243018,
+        "auxiliar": 1105614532421881926
+
+      },
+
+      "equipereg": {
+
+        "regchefe": 1105610999769333901,
+        "registrador": 1105611072725069944,
+        "regjunior": 1105611114278047844
+
+      }
+
+    },
+
+    "adv": {
+
+      "adv1": 1105606358486765739,
+      "adv2": 1105606404175314984,
+      "adv3": 1105606433548017704
+
+    },
+
+    "outras":{
+
+      "standby": 1105619383293849661,
+      "ntb": 1102801526738669639,
+      "nv100" : 1101955979207266384
+
+    }
+
+  },
+
+  "logs":{
+
+    "mod": 1102326417280225371,
+    "usocomandos": 1102326417280225371,
+    "cargos": 1105625582311571486
+
+  },
+
+  "chats":{
+
+    "ausencia": 1105604994150965358
+
+  }
+
+}
